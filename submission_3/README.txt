@@ -1,5 +1,5 @@
 Link to unlisted youtube video:
-https://youtube.com/.....
+https://youtu.be/-hV85rGViL4
 
 Link to the Concept Map:
 https://draw.io/...
@@ -8,21 +8,21 @@ Name, Author, Edition, year and publisher of the Book:
 Speech and Language Processing
 Jurafsky
 3rd edition
-2014
+2021
 Pearson
 
 Link to the book:
-https://amazon.com/...
+https://web.stanford.edu/~jurafsky/slp3/
 
 Link to the book chapter:
-https://books.google.com/books...
+https://web.stanford.edu/~jurafsky/slp3/7.pdf
 
 Group Number:
-0
+17
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+21366019 Rakin Bin Rabbani
+21366020 Sumaiya Tanjil Khan
+21166039 Md Abu Ishak Mahy
+21366036 Prasenjit Das
+21166026 Shafkat Hassan
