@@ -1,24 +1,24 @@
 Unlisted youtube video:
-http://youtube....
+https://youtu.be/Bs52FLbOF8Q
 
 Conference / Paper submission login URL:
-https://easy....
+
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+A Comprehensive study of Emotion Detection in Bangla Natural Language Processing
 
 Paper presentation:
-http://slides.google.com/
+
 
 Paper submission date (to workshop/conference):
-25 October 2021
+
 
 Paper submission ID: (received) from conference/workshop
-1341234
+
 
 
 Conference URL:
-http://confsite/...
+
 
 Group Number:
 17
