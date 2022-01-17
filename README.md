@@ -1,1 +1,2 @@
-# CSE712_NLP
+Symbolic Machine Learning II
+Natural Language Processing (NLP)
