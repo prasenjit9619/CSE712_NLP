@@ -1,2 +1,3 @@
-Symbolic Machine Learning II
-Natural Language Processing (NLP)
+## Symbolic Machine Learning II
+
+## Natural Language Processing (NLP)
