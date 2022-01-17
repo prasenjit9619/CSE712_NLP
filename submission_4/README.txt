@@ -24,8 +24,9 @@ Group Number:
 17
 
 Group Members:
+21166026 Shafkat Hassan
+21166039 Md Abu Ishak Mahy
 21366019 Rakin Bin Rabbani
 21366020 Sumaiya Tanjil Khan
-21166039 Md Abu Ishak Mahy
 21366036 Prasenjit Das
-21166026 Shafkat Hassan
+
