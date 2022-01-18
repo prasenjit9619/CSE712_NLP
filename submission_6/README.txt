@@ -1,6 +1,18 @@
-Completed coursera course using email
-someone@gmail.com
-https://www.coursera.org/learn/this_is_a_course
+Completed coursera courses using email
+prasenjit.9619@gmail.com
+https://www.coursera.org/learn/neural-networks-deep-learning
+https://www.coursera.org/learn/deep-neural-network
+https://www.coursera.org/learn/machine-learning-projects
+https://www.coursera.org/learn/convolutional-neural-networks
+https://www.coursera.org/learn/nlp-sequence-models
+https://www.coursera.org/learn/introduction-git-github
+https://www.coursera.org/learn/html-css-javascript-for-web-developers
+
+Completed Datacamp courses using email
+prasenjit9619@gmail.com
+https://www.datacamp.com/courses/intro-to-python-for-data-science
+https://www.datacamp.com/courses/intermediate-python
+https://www.datacamp.com/courses/python-data-science-toolbox-part-1 (in progress)
 
 Completed edx course using email
 someone@gmail.com
