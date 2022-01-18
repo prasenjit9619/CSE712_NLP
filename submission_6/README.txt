@@ -19,8 +19,8 @@ did something else
 ...
 
 was active in slack:
-http://slack post URL1
-http://slack post URL2
+https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1638184415011300
+https://bucse712fall2021.slack.com/archives/C02GVQSQSRX/p1639973884011000
 
 Submitter:
-12345678 Name A
+21366036 Prasenjit Das
