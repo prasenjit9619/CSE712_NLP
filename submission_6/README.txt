@@ -19,16 +19,29 @@ someone@gmail.com
 https://edx.org/learn/this_is_a_course
 
 completed youtube video:
-http://youtube....
+https://www.youtube.com/watch?v=vd2dtkMINIw
+https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ
+https://www.youtube.com/watch?v=gqaHkPEZAew&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=2
+https://www.youtube.com/watch?v=X0Jw4kgaFlg&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=3
+https://www.youtube.com/watch?v=PSGIodTN3KE&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=4
+https://www.youtube.com/watch?v=PLryWeHPcBs&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=5
+https://www.youtube.com/watch?v=0LixFSa7yts&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=6
+https://www.youtube.com/watch?v=wzfWHP6SXxY&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=7
+https://www.youtube.com/watch?v=gKD7jPAdbpE&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=8
+https://www.youtube.com/watch?v=ptuGllU5SQQ&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=9
+https://www.youtube.com/watch?v=j9AcEI98C0o&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=10
+
 
 completed book:
-http://book
+https://web.stanford.edu/~jurafsky/slp3/
 
 did project:
-.....
+https://github.com/prasenjit9619/XAI_COVID19
 
 did something else
-...
+https://youtu.be/eW-FOnKWkc4
+https://youtu.be/mmLSVlJKu0Y
+https://youtu.be/AhYfdgcxeRA
 
 was active in slack:
 https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1638184415011300
