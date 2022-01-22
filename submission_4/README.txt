@@ -7,8 +7,6 @@ https://easychair.org/conferences/?conf=usernlp2022
 Paper title:
 A Comprehensive study of Emotion Detection in Bangla Natural Language Processing
 
-Paper presentation:
-
 
 Paper submission date (to workshop/conference):
 22 January 2022
